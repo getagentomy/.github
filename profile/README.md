@@ -34,7 +34,7 @@ This is as true for one personal agent as for a fleet of a thousand. Scale chang
 
 ## Proven, not asserted
 
-- **GovernanceBench**: 6 of 6 dimensions, 235 of 235 core scenarios, 100 of 100. The full library is 428 scenarios across 19 suites.
+- **GovernanceBench**: 6 of 6 dimensions, 235 of 235 core scenarios, 100 of 100. The full library is 448 scenarios across 20 suites.
 - **VIGIL**: 148 of 148 adversarial and prompt-injection scenarios.
 - **Kevlar**: 10 of 10 of the OWASP Agentic Top 10, across 48 attack scenarios.
 - **45 detection methods** and **166 governance patterns** across seven domains, with **24 framework adapters**.
